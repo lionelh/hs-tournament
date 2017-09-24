@@ -3,9 +3,9 @@
 <html>
   <head>
     <title>Hearthstone Tournament Application</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/application.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/application.css"/>
   </head>
   <body>
   	<nav class="navbar navbar-inverse navbar-fixed-top">
@@ -22,12 +22,12 @@
   	<div class="row">
   		<div class="col-lg-12" align="center">
     		<h1>Welcome to Hearthstone Tournament Application</h1>
-    	</div>div>
+    	</div>
     </div>
     <div class="row">
     	<div class="col-lg-5"></div>
      	<div class="col-lg-3">
-     		<!-- This row will be used to display error message during login (class="alert alert-danger")-->
+     		<!-- This row will be used to display error message during login (class="alert alert-danger") -->
     	</div>
     	<div class="col-lg-4"></div>
   	</div>
