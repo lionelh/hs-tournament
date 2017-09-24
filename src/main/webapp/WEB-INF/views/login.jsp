@@ -46,7 +46,7 @@
                 				<td><input type="text" id="username" name="_username" value="" /></td>
               				</tr>
               				<tr>
-                				<td><label class="required" for="password">Password</label></td>
+                				<td><label class="required" for="password">Password: </label></td>
                 				<td><input type="password" id="password" name="_password" /></td>
                 			</tr>
               				<tr>
