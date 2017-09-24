@@ -13,7 +13,7 @@
   			<div class="navbar-header">
 				<a class="navbar-brand" href="#">
 					<p>
-						<img src="/images/logo.png') }}" width="30" height="30" />&nbsp;Hearthstone Tournament Application
+						<img src="/images/logo.png" width="30" height="30" />&nbsp;Hearthstone Tournament Application
 					</p>
 				</a>
             </div>
